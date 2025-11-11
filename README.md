@@ -1,2 +1,2 @@
 
-![cruzdariel's GitHub Banner](https://raw.githubusercontent.com/cruzdariel/cruzdariel/main/banner.png)
+![cruzdariel's GitHub Banner](https://raw.githubusercontent.com/cruzdariel/cruzdariel/main/cruzdariel-readme-banner.png)
